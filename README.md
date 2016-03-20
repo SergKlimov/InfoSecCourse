@@ -1,3 +1,3 @@
 # InfoSecCourse
 
-Lab1 report added.
+Gpg report added.
